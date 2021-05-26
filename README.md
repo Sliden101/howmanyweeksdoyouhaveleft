@@ -1,3 +1,3 @@
 # howmanyweeksdoyouhaveleft
-Death
+Death.
 Isnt done yet
